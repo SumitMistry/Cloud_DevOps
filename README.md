@@ -5,7 +5,7 @@
 
 This project acts as an example of how to deploy a micro-service to the cloud.  This document will explain the various tools and techniques used to streamline the deployment process resulting in an efficient, effective, and (mostly) secure methodology which can be used for many projects.  Two different techniques will be discussed, but both approaches will provide the same functionality in regards to the end user. 
 
-Included in this repository is a previously developed project of a SpringBoot managed micro-service, which can be found in full [here](https://github.com/andrew-laniak-fuoco/trading_api), along with a description of it's functionality and architecture.  It is recommended for anyone with little to no deployment experience to use the included application in order to learn how these deployment processes work.
+Included in this repository is a previously developed project of a SpringBoot managed micro-service, which can be found in full [here](https://github.com/sumitJRVS/Dockerizing-trading-app-try/), along with a description of it's functionality and architecture.  It is recommended for anyone with little to no deployment experience to use the included application in order to learn how these deployment processes work.
 
 The trading application specifically will be built with three working pieces giving it a three tiered architecture.  The three parts are client, application server, and database.  The two deployment techniques will make use of a PostgreSQL database for the database tier, as the trading application expects the mentioned database.
 
